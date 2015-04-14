@@ -128,6 +128,8 @@
 <picklistvalue>Mapping</picklistvalue>
 <picklistvalue>SendMail</picklistvalue>
 <picklistvalue>Block Access</picklistvalue>
+<picklistvalue>Divide EditCreate</picklistvalue>
+<picklistvalue>FieldDependency</picklistvalue>
 </picklistvalues>
 </field>
 <field>
